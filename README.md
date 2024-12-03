@@ -9,7 +9,7 @@ This project extracts 3D landmarks from facial images and performs interpolation
 
 ## Files
 - **`main.py`**: Python script for extracting and visualizing 3D landmarks.
-- **`3DFACEInterpolation.mat`**: MATLAB file for cubic interpolation.
+- **`FACEInterpolation.m`**: MATLAB file for cubic interpolation.
 - **`facemarkpdf.pdf`**: Project documentation.
 
 ## Requirements
@@ -19,7 +19,7 @@ This project extracts 3D landmarks from facial images and performs interpolation
   - `scikit-image`
   - `numpy`
   - `matplotlib`
-- MATLAB (for `.mat` file processing)
+- MATLAB (for `.m` file processing)
 
 ## Usage
 ### Python Script
@@ -34,7 +34,7 @@ This project extracts 3D landmarks from facial images and performs interpolation
    Replace the image path with the path to your image.
 
 ### MATLAB
-1. Load the `3DFACEInterpolation.mat` file.
+1. Load the `FACEInterpolation.m` file.
 2. Perform cubic interpolation using MATLAB's built-in functions.
 
 ## Authors
