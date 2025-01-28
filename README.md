@@ -34,7 +34,7 @@ This project extracts 3D landmarks from facial images and performs interpolation
    Replace the image path with the path to your image.
 
 ### MATLAB
-1. Load the `FACEInterpolation.m` file.
+1. Load the `FACEInterpolation.m` file
 2. Perform cubic interpolation using MATLAB's built-in functions.
 
 ## Authors
